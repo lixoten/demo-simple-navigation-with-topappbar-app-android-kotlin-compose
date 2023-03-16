@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DemoFido</string>
+
+    <string name="home_screen_name">Home Screen</string>
+    <string name="list_screen_name">List Screen</string>
+    <string name="item_detail_screen_name">Item Detail Screen</string>
+    <string name="fourth_screen_name">Fourth Screen</string>
+
+    <string name="home_screen_button">Go to Home</string>
+    <string name="list_screen_button">Go to List Items</string>
+    <string name="fourth_button">Go to Fourth</string>
+
+
+
+</resources>
